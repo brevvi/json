@@ -1,0 +1,58 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "nome": "Hamburguinho",
+            "restaurante": "Hamburguinho - Pinheiros",
+            "web": "https://www.hamburguinho.com.br/",
+            "descricao": "Chesse Salada",
+            "ingredientes": ["tomate", "queijo patro", "alface", "maionese","hamburguers", "pao"],
+            "endereco": [
+                {
+                    "endereco": "0",
+                    "numero": "1072",
+                    "linha1": "R. dos Pinheiros",
+                    "linha2": "Pinheiros",
+                    "CEP": "05422-001",
+                    "pais": "Brasil"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "nome": "Hobby Burguer",
+            "restaurante": "Hobby",
+            "web": "https://www.instagram.com/hobbyburgueroficial",
+            "descricao": "Hamburger Creme de Milho",
+            "ingredientes": ["hamburger", "creme de milho", "pao brioche"],
+            "endereco": [
+                {
+                    "endereco": "0",
+                    "numero": "104",
+                    "linha1": "R. Cardoso de Almeida",
+                    "linha2": "Perdizes",
+                    "CEP": "05013-001",
+                    "pais": "Brasil"
+                }
+            ]
+        },
+        {
+	   "id": 2,
+            "nome": "A Chapa",
+            "restaurante": "A Chapa Hamburguers",
+            "web": "http://www.achapa.com.br/",
+            "descricao": "Cheese Salada",
+            "ingredientes": ["tomate", "alface","maionese", "hamburguer", "pao brioche"],
+            "endereco": [
+                 {
+                    "endereco": "0",
+                    "numero": "2564",
+                    "linha1": "Rua Domingos de Morais",
+                    "linha2": "Vila Mariana",
+                    "CEP": "0436-100",
+                    "pais": "Brasil"
+                }
+            ]
+        }
+    ]
+}
